@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/homework.dir/trans.cpp.o  -o homework 
